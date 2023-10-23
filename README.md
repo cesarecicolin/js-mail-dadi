@@ -17,3 +17,17 @@ Stabilire il vincitore, in base a chi fa il punteggio più alto.
 controlare se lutente è nella lista utenti 
    SE stampare un messagio  di sucesso 
    ALTRO stampare un messagio di falimento 
+
+   **esercizio 2**
+
+   **dati**
+   1. generare un numero random per lutente
+   2. generare un numero rando per il computer
+
+   **logica del programa**
+   1.stabilire il risultato
+     
+     SE vince il giocatore (stampare un messagio con hai vinto)
+     ALTRO se vince il computer (stampare un messagio con hai perso)
+     ALTRO se si preggia (stampare un messagio con avete paregiato)
+
